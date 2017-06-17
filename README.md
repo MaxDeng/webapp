@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 webapp: Kitchensink Example using Spring 4.x
 ==============================================================
 Author: Marius Bogoevici, Tejas Mehta, Joshua Wilson  
@@ -135,3 +136,6 @@ commands to pull them into your local repository. The IDE should then detect the
 
         mvn dependency:sources
         mvn dependency:resolve -Dclassifier=javadoc
+=======
+# webapp
+>>>>>>> branch 'master' of https://github.com/MaxDeng/webapp.git

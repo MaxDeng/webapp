@@ -34,7 +34,7 @@
         <h1>Welcome to SERS!</h1>
 
         <div>
-            <p>You have successfully deployed a basic SpringMVC web application.</p>
+            <p>You have successfully deployed a basic SERS web application.</p>
         </div>
 
         <form:form commandName="newMember" id="reg">
